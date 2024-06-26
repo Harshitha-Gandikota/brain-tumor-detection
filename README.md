@@ -1,5 +1,5 @@
 # brain-tumor-detection
-## to run the code follow the below steps
+## To run the code follow the below steps
 1. Open the file Google collab.
 2. Change the runtime type to *T4 GPU*
 3. Run the 1st 4 cells expect the commented one.
@@ -15,6 +15,7 @@
 <br>
 <br>
 Epoch - An epoch in YOLO refers to one complete cycle of training the model on the entire dataset. During one epoch, the model sees and learns from each training example once. It's like reading a book from start to finish one time to understand the content.
+<br>
 <br>
 Roboflow - Roboflow makes it simple to label and annotate images, which is essential for training models like YOLO. It helps increase your dataset by creating variations of your images, improving model performance. Roboflow can convert your data into the format needed for different models, saving you time. It keeps your datasets organized and easily accessible. Roboflow integrates well with popular machine learning frameworks, making it easier to train your models.
 
