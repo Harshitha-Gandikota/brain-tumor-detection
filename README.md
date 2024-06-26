@@ -3,11 +3,11 @@
 1. Open the file Google collab.
 2. Change the runtime type to *T4 GPU*
 3. Run the 1st 4 cells expect the commented one.
-4. Before running the preparing the custom dataset. 
-     i. go to roboflow.com and sign in.
-     ii. go to universe and select the brain tumor dataset.
-     iii. click on download dataset. select the version- YOLOv8. Export it.
-     iv. copy the displayed code.
+4. Before running the preparing the custom dataset. <br>
+     i. go to roboflow.com and sign in.<br>
+     ii. go to universe and select the brain tumor dataset.<br>
+     iii. click on download dataset. select the version- YOLOv8. Export it.<br>
+     iv. copy the displayed code.<br>
 5. Paste it and run the cell.
 6. Run the cell in custom training. You change the epoch value as required.
 7. Run the cell in Validate Custom Model.
